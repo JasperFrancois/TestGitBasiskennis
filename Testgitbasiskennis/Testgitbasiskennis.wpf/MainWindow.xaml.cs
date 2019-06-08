@@ -28,7 +28,7 @@ namespace Testgitbasiskennis.wpf
         }
         void Test()
         {
-            int x = 5;
+            int y = 5;
         }
     }
 }
