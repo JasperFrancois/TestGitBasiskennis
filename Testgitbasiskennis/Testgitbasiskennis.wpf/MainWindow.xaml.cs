@@ -23,6 +23,7 @@ namespace Testgitbasiskennis.wpf
         public MainWindow()
         {
             InitializeComponent();
+            // Comment test push
         }
     }
 }
