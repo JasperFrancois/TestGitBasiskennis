@@ -26,5 +26,9 @@ namespace Testgitbasiskennis.wpf
             // Comment test push
             // test push via VS
         }
+        void Test()
+        {
+            int x = 5;
+        }
     }
 }
