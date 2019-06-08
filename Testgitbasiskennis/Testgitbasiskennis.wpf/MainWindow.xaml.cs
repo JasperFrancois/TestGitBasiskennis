@@ -24,6 +24,7 @@ namespace Testgitbasiskennis.wpf
         {
             InitializeComponent();
             // Comment test push
+            // test push via VS
         }
     }
 }
